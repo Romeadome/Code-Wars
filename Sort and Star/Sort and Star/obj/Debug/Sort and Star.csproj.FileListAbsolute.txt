@@ -1,0 +1,8 @@
+C:\Users\Roman Love\Desktop\testing enviroment\Sort and Star\Sort and Star\bin\Debug\Sort and Star.exe.config
+C:\Users\Roman Love\Desktop\testing enviroment\Sort and Star\Sort and Star\bin\Debug\Sort and Star.exe
+C:\Users\Roman Love\Desktop\testing enviroment\Sort and Star\Sort and Star\bin\Debug\Sort and Star.pdb
+C:\Users\Roman Love\Desktop\testing enviroment\Sort and Star\Sort and Star\obj\Debug\Sort and Star.csproj.AssemblyReference.cache
+C:\Users\Roman Love\Desktop\testing enviroment\Sort and Star\Sort and Star\obj\Debug\Sort and Star.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roman Love\Desktop\testing enviroment\Sort and Star\Sort and Star\obj\Debug\Sort and Star.csproj.CoreCompileInputs.cache
+C:\Users\Roman Love\Desktop\testing enviroment\Sort and Star\Sort and Star\obj\Debug\Sort and Star.exe
+C:\Users\Roman Love\Desktop\testing enviroment\Sort and Star\Sort and Star\obj\Debug\Sort and Star.pdb

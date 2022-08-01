@@ -1,0 +1,8 @@
+C:\Users\Roman Love\Desktop\testing enviroment\Expressions Matter\Expressions Matter\bin\Debug\Expressions Matter.exe.config
+C:\Users\Roman Love\Desktop\testing enviroment\Expressions Matter\Expressions Matter\bin\Debug\Expressions Matter.exe
+C:\Users\Roman Love\Desktop\testing enviroment\Expressions Matter\Expressions Matter\bin\Debug\Expressions Matter.pdb
+C:\Users\Roman Love\Desktop\testing enviroment\Expressions Matter\Expressions Matter\obj\Debug\Expressions Matter.csproj.AssemblyReference.cache
+C:\Users\Roman Love\Desktop\testing enviroment\Expressions Matter\Expressions Matter\obj\Debug\Expressions Matter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roman Love\Desktop\testing enviroment\Expressions Matter\Expressions Matter\obj\Debug\Expressions Matter.csproj.CoreCompileInputs.cache
+C:\Users\Roman Love\Desktop\testing enviroment\Expressions Matter\Expressions Matter\obj\Debug\Expressions Matter.exe
+C:\Users\Roman Love\Desktop\testing enviroment\Expressions Matter\Expressions Matter\obj\Debug\Expressions Matter.pdb
