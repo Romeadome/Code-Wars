@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Code Wars\Sum The Strings\Sum The Strings\bin\Debug\Sum The Strings.exe.config
+D:\Coding Projects Portfolio\Code Wars\Sum The Strings\Sum The Strings\bin\Debug\Sum The Strings.exe
+D:\Coding Projects Portfolio\Code Wars\Sum The Strings\Sum The Strings\bin\Debug\Sum The Strings.pdb
+D:\Coding Projects Portfolio\Code Wars\Sum The Strings\Sum The Strings\obj\Debug\Sum The Strings.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Code Wars\Sum The Strings\Sum The Strings\obj\Debug\Sum The Strings.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Code Wars\Sum The Strings\Sum The Strings\obj\Debug\Sum The Strings.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Code Wars\Sum The Strings\Sum The Strings\obj\Debug\Sum The Strings.exe
+D:\Coding Projects Portfolio\Code Wars\Sum The Strings\Sum The Strings\obj\Debug\Sum The Strings.pdb

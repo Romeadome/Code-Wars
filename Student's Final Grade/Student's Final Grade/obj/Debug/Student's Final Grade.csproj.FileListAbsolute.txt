@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Code Wars\Student's Final Grade\Student's Final Grade\bin\Debug\Student's Final Grade.exe.config
+D:\Coding Projects Portfolio\Code Wars\Student's Final Grade\Student's Final Grade\bin\Debug\Student's Final Grade.exe
+D:\Coding Projects Portfolio\Code Wars\Student's Final Grade\Student's Final Grade\bin\Debug\Student's Final Grade.pdb
+D:\Coding Projects Portfolio\Code Wars\Student's Final Grade\Student's Final Grade\obj\Debug\Student's Final Grade.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Code Wars\Student's Final Grade\Student's Final Grade\obj\Debug\Student's Final Grade.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Code Wars\Student's Final Grade\Student's Final Grade\obj\Debug\Student's Final Grade.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Code Wars\Student's Final Grade\Student's Final Grade\obj\Debug\Student's Final Grade.exe
+D:\Coding Projects Portfolio\Code Wars\Student's Final Grade\Student's Final Grade\obj\Debug\Student's Final Grade.pdb
