@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Min Max Values In List\Min Max Values In List\bin\Debug\Min Max Values In List.exe.config
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Min Max Values In List\Min Max Values In List\bin\Debug\Min Max Values In List.exe
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Min Max Values In List\Min Max Values In List\bin\Debug\Min Max Values In List.pdb
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Min Max Values In List\Min Max Values In List\obj\Debug\Min Max Values In List.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Min Max Values In List\Min Max Values In List\obj\Debug\Min Max Values In List.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Min Max Values In List\Min Max Values In List\obj\Debug\Min Max Values In List.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Min Max Values In List\Min Max Values In List\obj\Debug\Min Max Values In List.exe
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Min Max Values In List\Min Max Values In List\obj\Debug\Min Max Values In List.pdb
