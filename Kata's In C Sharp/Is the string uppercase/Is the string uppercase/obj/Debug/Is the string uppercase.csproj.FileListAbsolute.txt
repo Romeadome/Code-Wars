@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Is the string uppercase\Is the string uppercase\bin\Debug\Is the string uppercase.exe.config
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Is the string uppercase\Is the string uppercase\bin\Debug\Is the string uppercase.exe
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Is the string uppercase\Is the string uppercase\bin\Debug\Is the string uppercase.pdb
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Is the string uppercase\Is the string uppercase\obj\Debug\Is the string uppercase.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Is the string uppercase\Is the string uppercase\obj\Debug\Is the string uppercase.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Is the string uppercase\Is the string uppercase\obj\Debug\Is the string uppercase.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Is the string uppercase\Is the string uppercase\obj\Debug\Is the string uppercase.exe
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Is the string uppercase\Is the string uppercase\obj\Debug\Is the string uppercase.pdb

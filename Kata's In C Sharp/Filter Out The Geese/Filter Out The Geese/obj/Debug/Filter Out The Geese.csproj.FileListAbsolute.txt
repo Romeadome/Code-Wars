@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Filter Out The Geese\Filter Out The Geese\bin\Debug\Filter Out The Geese.exe.config
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Filter Out The Geese\Filter Out The Geese\bin\Debug\Filter Out The Geese.exe
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Filter Out The Geese\Filter Out The Geese\bin\Debug\Filter Out The Geese.pdb
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Filter Out The Geese\Filter Out The Geese\obj\Debug\Filter Out The Geese.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Filter Out The Geese\Filter Out The Geese\obj\Debug\Filter Out The Geese.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Filter Out The Geese\Filter Out The Geese\obj\Debug\Filter Out The Geese.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Filter Out The Geese\Filter Out The Geese\obj\Debug\Filter Out The Geese.exe
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Filter Out The Geese\Filter Out The Geese\obj\Debug\Filter Out The Geese.pdb

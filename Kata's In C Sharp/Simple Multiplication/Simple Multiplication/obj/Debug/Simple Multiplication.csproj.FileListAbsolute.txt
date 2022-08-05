@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Simple Multiplication\Simple Multiplication\bin\Debug\Simple Multiplication.exe.config
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Simple Multiplication\Simple Multiplication\bin\Debug\Simple Multiplication.exe
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Simple Multiplication\Simple Multiplication\bin\Debug\Simple Multiplication.pdb
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Simple Multiplication\Simple Multiplication\obj\Debug\Simple Multiplication.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Simple Multiplication\Simple Multiplication\obj\Debug\Simple Multiplication.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Simple Multiplication\Simple Multiplication\obj\Debug\Simple Multiplication.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Simple Multiplication\Simple Multiplication\obj\Debug\Simple Multiplication.exe
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Simple Multiplication\Simple Multiplication\obj\Debug\Simple Multiplication.pdb
