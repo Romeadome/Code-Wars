@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Sum Mixed Array\Sum Mixed Array\bin\Debug\Sum Mixed Array.exe.config
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Sum Mixed Array\Sum Mixed Array\bin\Debug\Sum Mixed Array.exe
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Sum Mixed Array\Sum Mixed Array\bin\Debug\Sum Mixed Array.pdb
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Sum Mixed Array\Sum Mixed Array\obj\Debug\Sum Mixed Array.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Sum Mixed Array\Sum Mixed Array\obj\Debug\Sum Mixed Array.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Sum Mixed Array\Sum Mixed Array\obj\Debug\Sum Mixed Array.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Sum Mixed Array\Sum Mixed Array\obj\Debug\Sum Mixed Array.exe
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\Sum Mixed Array\Sum Mixed Array\obj\Debug\Sum Mixed Array.pdb

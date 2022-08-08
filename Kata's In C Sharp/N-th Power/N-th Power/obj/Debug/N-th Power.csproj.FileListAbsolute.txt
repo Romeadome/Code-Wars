@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\N-th Power\N-th Power\bin\Debug\N-th Power.exe.config
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\N-th Power\N-th Power\bin\Debug\N-th Power.exe
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\N-th Power\N-th Power\bin\Debug\N-th Power.pdb
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\N-th Power\N-th Power\obj\Debug\N-th Power.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\N-th Power\N-th Power\obj\Debug\N-th Power.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\N-th Power\N-th Power\obj\Debug\N-th Power.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\N-th Power\N-th Power\obj\Debug\N-th Power.exe
+D:\Coding Projects Portfolio\Code Wars\Kata's In C Sharp\N-th Power\N-th Power\obj\Debug\N-th Power.pdb
